@@ -83,4 +83,3 @@ Primary use cases include hospitals, schools, government offices, and customer s
 - Sequence-based modeling, not static pose classification
 - Practical deployment use case, not a toy project
 - Clear social + enterprise value
-# Sign-Wave

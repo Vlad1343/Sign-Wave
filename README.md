@@ -2,7 +2,7 @@
 
 **Demo:** https://mriya-wave.co.uk
 
-> **🥈 2nd Place** - **Ukrainian Student Business Hackathon (Business Track)** <br>
+> **🥈 2nd Place** - **Ukrainian Student Business Hackathon** <br>
 > ⚡ Real-Time Computer Vision and Sequence Learning System
 
 ---
